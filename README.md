@@ -50,13 +50,30 @@ Desenvolvedor Full Stack em constante evolução, atualmente trabalhando como PJ
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAILTONDPAULA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAILTONDPAULA&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 🚀 Projetos em Destaque
 
-> 🔧 **Seção em construção** - Em breve você encontrará aqui meus projetos mais interessantes!
+### � Laravel Base Template
+**Template Laravel otimizado para desenvolvimento rápido**
+
+[![Packagist](https://img.shields.io/packagist/v/jailtonpaula/laravel-base.svg)](https://packagist.org/packages/jailtonpaula/laravel-base)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/jailtonpaula/laravel-base.svg)](https://packagist.org/packages/jailtonpaula/laravel-base)
+[![GitHub](https://img.shields.io/github/stars/JAILTONDPAULA/laravel-base?style=social)](https://github.com/JAILTONDPAULA/laravel-base)
+
+Template Laravel completo com SASS, jQuery, Gulp e componentes pré-configurados para acelerar o desenvolvimento de projetos web.
+
+**🔗 Links:**
+- 📦 **Packagist:** https://packagist.org/packages/jailtonpaula/laravel-base
+- 💻 **GitHub:** https://github.com/JAILTONDPAULA/laravel-base
+
+**💡 Tecnologias:** `Laravel` `SASS` `jQuery` `Gulp` `Oracle` `PostgreSQL`
+
+---
+
+> 🔧 Mais projetos em desenvolvimento...
 
 ## 🎯 Objetivos Atuais
 
@@ -68,7 +85,7 @@ Desenvolvedor Full Stack em constante evolução, atualmente trabalhando como PJ
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=dracula&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAILTONDPAULA&theme=dracula&area=true&hide_border=true" width="100%"/>
 </div>
 
 ## 🤝 Vamos nos Conectar!
